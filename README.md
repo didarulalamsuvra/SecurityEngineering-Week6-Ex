@@ -2,7 +2,7 @@
 
 TASK 1 :
 
-1. Trusted Platform Module (TPM) 
+1.Trusted Platform Module (TPM) 
 The Trusted Platform Module (TPM) is a hardware-based security feature designed to secure systems through cryptographic functions. TPMs provide a root of trust by generating, storing, and managing cryptographic keys securely within the hardware. They are commonly used for tasks such as secure boot, disk encryption and ensuring platform integrity.
 Security Capabilities:
 TPM ensures hardware securely handles cryptographic keys and sensitive operations, protecting against software-based attacks. Ensures that only trusted software can be loaded at boot time, protecting against tampering and malware attacks.TPM securely stores encryption keys and can prevent them from being extracted or tampered with.
